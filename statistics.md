@@ -1,4 +1,4 @@
-Ideas for curriculum:
+# Ideas for curriculum:
 
 	- Mean and standard deviation
 	- Regression

@@ -1,4 +1,4 @@
-Ideas for curriculum:
+# Ideas for curriculum:
 
 	- Roaring Twenties
 	- The Great Depression
